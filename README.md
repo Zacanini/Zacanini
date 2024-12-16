@@ -51,6 +51,10 @@
   </a>
 </p>
 
+<h3 align="left">Commit Metrics:</h3>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Zacanini&theme=onedark" alt="zacanini" />
+</p>
 
 <p>
   <img align="left" width="265px" src="https://wallpapers-clan.com/wp-content/uploads/2023/11/zenitsu-agatsuma-with-sword-cool-background-709x1536.jpg" alt="zacanini" />
@@ -61,6 +65,9 @@
   <img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zacanini&show_icons=true&locale=en&layout=compact" alt="zacanini" />
   <img align="rigth" src="https://github-readme-stats.vercel.app/api?username=Zacanini&show_icons=true&locale=en" alt="zacanini" />
   <img align="rigth" src="https://github-readme-streak-stats.herokuapp.com/?user=Zacanini&" alt="zacanini" />
+</p>
+<p>
+  <img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zacanini&theme=vue" alt="zacanini" />
 </p>
 
 <!-- Imagem principal à direita -->
